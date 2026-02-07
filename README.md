@@ -4,10 +4,6 @@ This project was developed as part of the Machine Learning course at the Faculty
 
 The project covers the complete machine learning pipeline, including data preprocessing, model training, evaluation, and comparison of multiple classification approaches 
 
-Drugi zadatak prvog dijela
-
-.
-
 🔧 Key Features
 
 Data preprocessing
